@@ -9,10 +9,10 @@
     }
   </style>
 <a href="https://brothertoncapital.com/">
-    <p style="text-align:center;"><br><br><br><img src="images/Picture1.png" height="55" width="580" object-fit="cover"><br><br><br></p>
+    <p style="text-align:center;"><br><br><br><img src="images/Picture1.png" height="70" width="90" object-fit="cover"><br><br><br></p>
     </a>
-<body style="background-color: #192650;">
+<body style="background-color: #edf0ee;">
 <div class="iframe-container">
-    <iframe title="Sample Report" width="1024" height="640" src="https://app.powerbi.com/view?r=eyJrIjoiODUzNjc2ZWUtNmQ2OC00YmYxLWE4ZGQtMzg3N2ExNGJhOWE4IiwidCI6ImJhMWZhYTc1LTAwYWYtNDA5MS1iOWY1LWVlYWQwNjJjZjgxZSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Sample Report - Reformatted" width="1024" height="640" src="https://app.powerbi.com/reportEmbed?reportId=1cc40c44-df4e-4b81-bd16-6568d4165309&autoAuth=true&ctid=aec61d15-682e-47c5-b56b-dcd2817b4146" frameborder="0" allowFullScreen="true"></iframe>
 </div>
 </body>
